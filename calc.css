@@ -1,0 +1,37 @@
+#calculadora {
+width: 25rem;
+}
+
+#calculadora .card-header{
+    background-image: repeating-linear-gradient(350deg,rgba(0, 0, 0, 0.582), rgb(204, 61, 36));
+}
+
+#calculadora .card-body {
+    background-image: repeating-linear-gradient(220deg,rgba(0, 0, 0, 0.582), rgb(204, 61, 36));
+
+}
+
+#calculadora #display{
+text-align: right;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 30pt;
+color: white;
+}
+
+#calculadora button {
+margin: 5px;
+height: 3em;
+background-image: repeating-linear-gradient(200deg,rgb(204, 61, 36), rgba(0, 0, 0, 0.582));
+color: blanchedalmond;
+}
+
+#calculadora button-text{
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 16pt;
+}
+
+#container {
+
+}
